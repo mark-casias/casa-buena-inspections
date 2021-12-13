@@ -1,0 +1,28 @@
+footer {
+  color: #f0daa7;
+  background-color: #f88e35;
+
+  span {
+    display: block;
+  }
+
+  a {
+    color: #f0daa7;
+    text-decoration: none;
+  }
+
+  .footer__container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 2rem 0;
+    display: flex;
+  }
+
+  .footer__logo {
+    margin-left: auto;
+    background-color: #fffbe6;
+    padding: 1rem;
+    border-radius: 5%;
+  }
+
+}
