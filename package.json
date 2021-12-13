@@ -1,9 +1,8 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "casa-buena-inspections",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "See the readme",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "breakpoint-sass": "^2.7.1",
     "gatsby": "^4.3.0",
@@ -41,9 +40,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
-  },
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/mark-casias/casa-buena-inspections"
   }
 }
