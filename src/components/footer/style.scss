@@ -36,6 +36,17 @@ footer {
     background-color: #fffbe6;
     padding: 1.5rem;
     border-radius: 5%;
+    text-align: center;
+
+    h5 {
+      color: #f88e35;
+      margin-bottom: 0;
+      span {
+        font-size: .5rem;
+        color: #6e7071;
+        display: block;
+      }
+    }
   }
 
 }

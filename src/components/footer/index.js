@@ -19,6 +19,7 @@ const Footer = () => (
           formats={["auto", "webp", "avif"]}
           alt="Casa Logo"
         />
+        <h5>Casa Buena<span>Property Inspection LLC</span></h5>
       </div>
     </div>
   </footer>
