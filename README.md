@@ -1,5 +1,7 @@
 # Casa Buena Inspections
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e6b0d144-6d29-4526-93d3-04dfb9029ef6/deploy-status)](https://app.netlify.com/sites/casa-buena-inspections/deploys)
+
 Look.. a gatsby Site.
 
 ## 🚀 Quick start

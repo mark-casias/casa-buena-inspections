@@ -12,7 +12,6 @@ const Header = () => (
       quality={95}
       formats={["auto", "webp", "avif"]}
       alt="Casa Logo"
-      style={{ marginBottom: `1.45rem` }}
     />
       <h1>
         Casa Buena <span>Property Inspection LLC</span>

@@ -7,8 +7,8 @@ const Footer = () => (
   <footer>
     <div className="footer__container">
       <div>
-        <p>Karl Wulffraat<span>Certified home inspector</span></p>
-        <p>505.363.7526</p>
+        <h4>Karl Wulffraat<span>Certified home inspector</span></h4>
+        <p><a href="tel:505-363-7526">505.363.7526</a></p>
         <p><a href="mailto:casa.buena.inspection@gmail.com">casa.buena.inspection@gmail.com</a></p>
       </div>
       <div class="footer__logo">
@@ -18,7 +18,6 @@ const Footer = () => (
           quality={95}
           formats={["auto", "webp", "avif"]}
           alt="Casa Logo"
-          style={{ marginBottom: `1.45rem` }}
         />
       </div>
     </div>

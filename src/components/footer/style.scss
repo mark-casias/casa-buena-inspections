@@ -6,9 +6,22 @@ footer {
     display: block;
   }
 
+  h4 {
+    font-size: 1.5rem;
+
+    span {
+      font-size: 1rem;
+    }
+  }
+
   a {
     color: #f0daa7;
     text-decoration: none;
+
+    &:hover {
+      color: #6e7071;
+      text-decoration: underline;
+    }
   }
 
   .footer__container {
@@ -21,7 +34,7 @@ footer {
   .footer__logo {
     margin-left: auto;
     background-color: #fffbe6;
-    padding: 1rem;
+    padding: 1.5rem;
     border-radius: 5%;
   }
 
