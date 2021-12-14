@@ -16,6 +16,12 @@ const Header = () => (
       <h1>
         Casa Buena <span>Property Inspection LLC</span>
       </h1>
+      <div className="header__sub">
+        <div className="header__sub--container">
+          <p><a href="tel:505-363-7526">505.363.7526</a></p>
+          <p><a href="mailto:casa.buena.inspection@gmail.com">casa.buena.inspection@gmail.com</a></p>
+        </div>
+      </div>
   </header>
 )
 

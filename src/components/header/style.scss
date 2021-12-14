@@ -2,7 +2,6 @@ header {
   background-color: #fffbe6;
   color: #f88e35;
   margin-bottom: 2rem;
-  padding-bottom: 2rem;
   text-align: center;
 
   h1 {
@@ -15,8 +14,27 @@ header {
     }
   }
 
-  div {
-    padding: 1.5rem 1rem;
+  .header__sub {
+    background-color: #f88e35;
+    padding: 0 2rem;
+    margin-top: 1rem;
+
+    &--container {
+      display: flex;
+      max-width: 960px;
+      margin: 0 auto;
+      justify-content: space-around;
+
+    }
+
+    a {
+      color: #fffbe6;
+      text-decoration: none;
+      &:hover {
+        color: #6e7071;
+        text-decoration: underline;
+      }
+    }
   }
 
 }
