@@ -10,6 +10,7 @@ const Footer = () => (
         <h4>Karl Wulffraat<span>Certified home inspector</span></h4>
         <p><a href="tel:505-363-7526">505.363.7526</a></p>
         <p><a href="mailto:casa.buena.inspection@gmail.com">casa.buena.inspection@gmail.com</a></p>
+        <p>NM Lic #: HI0146</p>
       </div>
       <div class="footer__logo">
         <StaticImage
